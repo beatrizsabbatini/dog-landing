@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Dog Landing Page Project
+
+![Layout](https://github.com/beatrizsabbatini/dog-landing/blob/main/src/assets/gif-site.gif "Layout implementado para web")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
